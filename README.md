@@ -1,2 +1,2 @@
-# anveshan2K24
-College Tech Fest
+# techevent2k24
+fest
