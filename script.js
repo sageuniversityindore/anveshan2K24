@@ -132,7 +132,7 @@ function countdown() {
 document.addEventListener('DOMContentLoaded', () => {
     // Set the date you're counting down to
     // Example: October 17, 2024 09:00:00
-    const countdownDate = new Date("November 11, 2024 09:00:00").getTime();
+    const countdownDate = new Date("November 30, 2024 09:00:00").getTime();
 
     // Update the count down every 1 second
     const countdownFunction = setInterval(() => {
