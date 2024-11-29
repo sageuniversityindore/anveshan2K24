@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // If the countdown is over, display a message
         if (distance < 0) {
             clearInterval(countdownFunction);
-            document.getElementById("countdown").innerHTML = "<p>The IIT Mumbai Tech Fest has started!</p>";
+            document.getElementById("countdown").innerHTML = "<p>The 4 days event @Sage University has ended !</p>";
         }
     }, 1000);
 });
